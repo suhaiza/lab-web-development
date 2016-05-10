@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+<style>
+.city {
+   float: left;
+   margin: 10px;
+   padding: 10px;
+   width: 500px;
+   height: 500px;
+   border: 10px solid black;
+}   
+</style>
+</head>
+<body>
+
+<h1>Its hockey,babe !</h1>
+
+
+<div class="city">
+ <h2>How to hold a hockey stick properly</h2>
+ <img src="http://howtohockey.com/wp-content/uploads/2010/02/properStickhandling.jpg" alt="Stick" style="width:400px;height:300px;">
+  <p>The top hand on a hockey stick provides all of the control and touch, so it should be your dominant hand. If you hold the hockey stick with your right hand on top of the stick and your left hand down the stick, you are a left-handed shooter.</p>
+</div>
+
+
+</body>
+</html>
+

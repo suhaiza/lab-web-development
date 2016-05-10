@@ -1,0 +1,55 @@
+<html>
+<head>
+<body background="http://7-themes.com/data_images/out/44/6920754-google-background-wallpaper.jpg">
+
+<style>
+#header {
+background-color:pink;
+color:white;
+font-family: URW Chancery L;
+font-size: 200%;
+text-align:center;
+padding:1px;
+}
+#section {
+background-color:;
+color:black;
+width:1200px;
+float:center;
+padding:20px;
+}
+#footer {
+background-color:pink;
+color:white;
+clear:both;
+text-align:center;
+padding:5px;
+}
+</style>
+</head>
+<body>
+
+<div id="header">
+
+<center><img src="welcome.gif" alt="hello" style="width:940px;height:180px;">
+</div>
+
+<div id="section">
+<center><nav>
+<a href="main pages.html">HOME</a> |
+<a href="hockey.html">HOCKEY</a> |
+<a href="shoes.html">SHOES</a> |
+<a href="balls.html">BALL</a> |
+<a href="stick.html">STICK</a> |
+<a href="links.html">VIDEO</a>
+</nav></center><br>
+
+<center><img src="images.jpg" style="width:590px;height:380px;"></center><br>
+<br>
+</div>
+
+<div id="footer">
+Copyright © hockey.com
+</div>
+</body>
+</html>
